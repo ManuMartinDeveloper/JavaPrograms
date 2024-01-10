@@ -1,0 +1,49 @@
+Question (10 Marks)
+In the ongoing advancement of Amazon's customer relationship management infrastructure, a
+sophisticated and menu-driven application is being meticulously crafted to streamline customer
+data management and optimize order processing. This system employs key classes tailored for
+Amazon's expansive ecosystem: Customer, Product, and Order. The Customer class, a linchpin
+of the system, adeptly manages individual customer details and interactions, providing
+functionalities for seamless registration and updating of customer information. Simultaneously,
+the Product class, acting as the backbone of the organization's dynamic product catalog and
+inventory management, boasts capabilities for the addition and real-time modification of product
+details. The Order class, serving as a robust facilitator for efficient order processing and tracking,
+offers features to place and modify orders while retrieving comprehensive order history. To
+bolster the efficiency of data storage and retrieval, the system strategically incorporates various
+data structures.
+The ArrayList data structure is instrumental in managing dynamic lists of customers, products,
+and orders. It facilitates adaptive storage, allowing for the dynamic expansion or contraction of
+lists based on operational needs, ensuring flexibility and responsiveness within Amazon's
+dynamic environment. Meanwhile, the HashMap data structure ensures unique identification and
+swift retrieval of products and customers. This is paramount for Amazon's vast database, as it
+allows for rapid access to pertinent information, minimizing latency and enhancing the overall
+responsiveness of the system. The HashSet data structure finds its purpose in efficiently
+organizing unique products associated with each customer. By eliminating duplicates and
+providing a structure for a collection of unique elements, it streamlines data representation,
+offering a more concise and organized view. Lastly, the TreeSet data structure plays a crucial role
+in ordered sorting of customers or products, facilitating efficient retrieval of information based
+on natural ordering or custom comparators. This is particularly beneficial in scenarios where
+sorted data access is integral to certain operational processes within Amazon.
+This strategic integration of ArrayList, HashMap, HashSet, and TreeSet underscores Amazon's
+commitment to technological innovation and scalability. These data structures collectively
+contribute to the optimization of data storage, retrieval, and management, aligning seamlessly
+
+with Amazon's commitment to delivering a customer-centric and operationally efficient
+experience within its vast and dynamic landscape.
+Evaluation Rubrics:
+Implementation of ArrayList:2 Marks
+Implementation of HashMap:4 Marks
+Implementation of HashSet and TreeSet:4 Marks
+Total:10 Marks
+General Instruction:
+1. Ensure that your code includes relevant comments to enhance readability and
+understanding. Subsequently, upload your code to GitHub for version control and
+collaborative access.
+2. Include descriptive comments within the code, explaining its functionality and logic.
+3. In the Google Classroom submission, include the GitHub URL where your code is
+hosted.
+4. Attach a PDF document named "your_register_number_exercise_No.pdf" to the
+submission.The PDF document should include screenshots of the code and the output
+screen.
+5. Upload the answer document&GitHub URL in Google Classroom on or before the
+deadline mentioned.Evaluation will not be considered for late submission
