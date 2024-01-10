@@ -3,6 +3,7 @@ In the ongoing advancement of Amazon's customer relationship management infrastr
 sophisticated and menu-driven application is being meticulously crafted to streamline customer
 data management and optimize order processing. This system employs key classes tailored for
 Amazon's expansive ecosystem: Customer, Product, and Order. 
+
 The Customer class, a linchpin of the system, adeptly manages individual customer details and interactions, providing
 functionalities for seamless registration and updating of customer information. 
 
