@@ -6,6 +6,7 @@ package Lab6;
 // multithreading concepts to optimize the computation of different combinations. Design a
 // concurrent solution that utilizes multiple threads to explore and calculate the various
 // combinations efficiently.
+import java.util.*;
 
 public class Question1 {
     public static void main(String[] args) throws InterruptedException {
