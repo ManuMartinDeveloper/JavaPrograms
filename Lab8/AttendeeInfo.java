@@ -6,5 +6,6 @@ class christConference{
         System.out.println("Please enter the attendees details: ");
         String name = scan.nextLine();
     }
+    
 }
 
